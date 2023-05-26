@@ -1,0 +1,12 @@
+Analyzing Spotify and YouTube Songs Using Python & MySQL
+
+In this project, you will be working on a real-world dataset of Spotify and Youtube combined. This project aims on cleaning the dataset,
+analyze the given dataset and mine informational quality insights.
+
+Project Description This project will help you understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using Python for better upcoming performance, how a structured query language helps us retrieve useful information from the database
+
+The Project will consist of 2 modules:
+
+Module 1: Data Pre-processing data using Python
+
+Module 2: Analyzing data using SQL
