@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-All live project with python and mysql
+All live projects with python and mysql
